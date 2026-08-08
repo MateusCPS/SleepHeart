@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: b2fe1c47c045761468b969057bc4a468
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 106
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1555
+        width: 138
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ea17dce9f37e4da6f4b0033057e23
+      internalID: -1904289191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1555
+        width: 141
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fedbc41b621da48b4da5e894967c51
+      internalID: 1615123999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1555
+        width: 138
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3aab7ed6b7a447a9bf6ecb8c0fb19
+      internalID: 955295454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1555
+        width: 138
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1dc94384dac2499892f4a783a8090
+      internalID: -402731093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1332
+        width: 144
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87efd36a5ea09a84591d7635472de29d
+      internalID: -30627544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1332
+        width: 136
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a152271ddf2d94a9b172cb34d0ae8f
+      internalID: -822466777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1332
+        width: 137
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bcdc8b94252a45aafc31b0b356679
+      internalID: 1401929759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1332
+        width: 136
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ad9565657d3743b04541f31ecdab1
+      internalID: -194227552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1114
+        width: 122
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97925a043b277f74e9ff4fffbcd751bd
+      internalID: -2014285749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1114
+        width: 123
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187df04ccbbef0f4c8dd7f49d141ba47
+      internalID: 1532032160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1113
+        width: 124
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6044a1e897a4147a4a01139c81e293
+      internalID: -1803011365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1114
+        width: 123
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d689a5a4913f341bd2f57610aebfe5
+      internalID: 1822158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 898
+        width: 129
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d7e4107b5a7947841fe8ce0c6f880
+      internalID: -1095927023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 128
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff96ad3ba989744b200221984eb529
+      internalID: -473248721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 898
+        width: 128
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562702b898774d74187008532abd0d83
+      internalID: 1363221463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 898
+        width: 129
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539bf59d010e5240bdd3f7c3c65349a
+      internalID: 745231011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 677
+        width: 135
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7a7c4f1054964bb3a7d9d3f90979d
+      internalID: 930420714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 676
+        width: 135
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f753f3cbd25234d8844bcda41601b8
+      internalID: 749226532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 677
+        width: 137
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3e3e868f6c7a478622fcf4ce9a23f
+      internalID: -783700264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 677
+        width: 136
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a54415e42fb40448a45dbb325af767
+      internalID: -913683692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 456
+        width: 130
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1529bf59385d904eb569947c7daf111
+      internalID: 931167002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 454
+        width: 130
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183bd6a95ab77524da64136a0ec1b4c6
+      internalID: 811148161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 454
+        width: 130
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12204a1a5daf442b7d8c0a47e81831
+      internalID: 1979887499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 456
+        width: 130
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5874952db4021b439b6bb36bf6ace36
+      internalID: 2044241850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 238
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05856a1ecba131f43bd5f0a1159ae7f5
+      internalID: 1590909202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 238
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d132cc6af6951f4797c735a3ef73cb3
+      internalID: 1418760439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 238
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e59d2a1d1f09f45ae3b1cd410b9f3f
+      internalID: -1800773182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 238
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a49ab8b0475d4aa0fd4bf43e3a86d
+      internalID: -1951048303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247851f14ec75045b1dc0823eb07741
+      internalID: 273107517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 18
+        width: 127
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6a7269d9689c4d96f0e92f6581f5d
+      internalID: -351260977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 23
+        width: 128
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b22379247a575e4cadfcaa8a6a16a62
+      internalID: -1936526737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Walk_8Dir_Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 22
+        width: 129
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457b12571fa93f48a1f7c1613a89b6a
+      internalID: 273761805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SleepHeart_Warrior_Walk_8Dir_Transparent_0: -1904289191
+      SleepHeart_Warrior_Walk_8Dir_Transparent_1: 1615123999
+      SleepHeart_Warrior_Walk_8Dir_Transparent_10: -1803011365
+      SleepHeart_Warrior_Walk_8Dir_Transparent_11: 1822158010
+      SleepHeart_Warrior_Walk_8Dir_Transparent_12: -1095927023
+      SleepHeart_Warrior_Walk_8Dir_Transparent_13: -473248721
+      SleepHeart_Warrior_Walk_8Dir_Transparent_14: 1363221463
+      SleepHeart_Warrior_Walk_8Dir_Transparent_15: 745231011
+      SleepHeart_Warrior_Walk_8Dir_Transparent_16: 930420714
+      SleepHeart_Warrior_Walk_8Dir_Transparent_17: 749226532
+      SleepHeart_Warrior_Walk_8Dir_Transparent_18: -783700264
+      SleepHeart_Warrior_Walk_8Dir_Transparent_19: -913683692
+      SleepHeart_Warrior_Walk_8Dir_Transparent_2: 955295454
+      SleepHeart_Warrior_Walk_8Dir_Transparent_20: 931167002
+      SleepHeart_Warrior_Walk_8Dir_Transparent_21: 811148161
+      SleepHeart_Warrior_Walk_8Dir_Transparent_22: 1979887499
+      SleepHeart_Warrior_Walk_8Dir_Transparent_23: 2044241850
+      SleepHeart_Warrior_Walk_8Dir_Transparent_24: 1590909202
+      SleepHeart_Warrior_Walk_8Dir_Transparent_25: 1418760439
+      SleepHeart_Warrior_Walk_8Dir_Transparent_26: -1800773182
+      SleepHeart_Warrior_Walk_8Dir_Transparent_27: -1951048303
+      SleepHeart_Warrior_Walk_8Dir_Transparent_28: 273107517
+      SleepHeart_Warrior_Walk_8Dir_Transparent_29: -351260977
+      SleepHeart_Warrior_Walk_8Dir_Transparent_3: -402731093
+      SleepHeart_Warrior_Walk_8Dir_Transparent_30: -1936526737
+      SleepHeart_Warrior_Walk_8Dir_Transparent_31: 273761805
+      SleepHeart_Warrior_Walk_8Dir_Transparent_4: -30627544
+      SleepHeart_Warrior_Walk_8Dir_Transparent_5: -822466777
+      SleepHeart_Warrior_Walk_8Dir_Transparent_6: 1401929759
+      SleepHeart_Warrior_Walk_8Dir_Transparent_7: -194227552
+      SleepHeart_Warrior_Walk_8Dir_Transparent_8: -2014285749
+      SleepHeart_Warrior_Walk_8Dir_Transparent_9: 1532032160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

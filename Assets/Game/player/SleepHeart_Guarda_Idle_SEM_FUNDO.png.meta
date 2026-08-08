@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: f0248d4a907b20f40897674d1d9660a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 682
+        width: 106
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f6ad9c3e217f4aa0ebbdf723280af
+      internalID: 867373520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 682
+        width: 106
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9c69073dacb249af169b7a62fa294
+      internalID: 1150049590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 682
+        width: 106
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62a3d822d72ce44970786b5bc9ea44
+      internalID: -1593729816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 682
+        width: 106
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f835032a74294f9a3a7da17cb0bdb
+      internalID: -1923129540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 476
+        width: 94
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d11296000264b74f87f43328007d333
+      internalID: 1878836673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 476
+        width: 94
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ee160e1938fb4e8a2e773d0ab23e4
+      internalID: 1486917073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 476
+        width: 95
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4bb8cb256b23c4f8c7489b1e673d5b
+      internalID: -2005567291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 476
+        width: 95
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2cbc5836a9ee46a6f3553a54fe20d
+      internalID: -729364921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 104
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5868d636877aaed488899598c0ce2247
+      internalID: -2079842683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 105
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c37bd064007004b8164acd472a8ad7
+      internalID: 668304167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 268
+        width: 104
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214816e6baeb724d9373da38221b66a
+      internalID: 2035796978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 267
+        width: 104
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204981c7902d924aa3e4206b91cea75
+      internalID: -772773122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 97
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d6cfc7f4d4724586f2da2a004751d
+      internalID: 1098131900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 62
+        width: 98
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d8fff8409e5b42bb54bdf982762e5
+      internalID: 866558179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 62
+        width: 97
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ac17f9b92e74649882af887c1d8472
+      internalID: 716479169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Guarda_Idle_SEM_FUNDO_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 62
+        width: 97
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74fcbfc207a7aa40b23469260affb41
+      internalID: 1747968485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SleepHeart_Guarda_Idle_SEM_FUNDO_0: 867373520
+      SleepHeart_Guarda_Idle_SEM_FUNDO_1: 1150049590
+      SleepHeart_Guarda_Idle_SEM_FUNDO_10: 2035796978
+      SleepHeart_Guarda_Idle_SEM_FUNDO_11: -772773122
+      SleepHeart_Guarda_Idle_SEM_FUNDO_12: 1098131900
+      SleepHeart_Guarda_Idle_SEM_FUNDO_13: 866558179
+      SleepHeart_Guarda_Idle_SEM_FUNDO_14: 716479169
+      SleepHeart_Guarda_Idle_SEM_FUNDO_15: 1747968485
+      SleepHeart_Guarda_Idle_SEM_FUNDO_2: -1593729816
+      SleepHeart_Guarda_Idle_SEM_FUNDO_3: -1923129540
+      SleepHeart_Guarda_Idle_SEM_FUNDO_4: 1878836673
+      SleepHeart_Guarda_Idle_SEM_FUNDO_5: 1486917073
+      SleepHeart_Guarda_Idle_SEM_FUNDO_6: -2005567291
+      SleepHeart_Guarda_Idle_SEM_FUNDO_7: -729364921
+      SleepHeart_Guarda_Idle_SEM_FUNDO_8: -2079842683
+      SleepHeart_Guarda_Idle_SEM_FUNDO_9: 668304167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

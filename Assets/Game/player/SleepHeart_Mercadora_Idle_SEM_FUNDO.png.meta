@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 4c8dcfb7b57d89047bf5ca60d2dbfe24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 669
+        width: 104
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c15913ee08b3349ba0e0c16b71ad0f
+      internalID: 1022591438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 670
+        width: 107
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a10114b9cd90846ab15d9f37491120
+      internalID: -1799839487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 669
+        width: 105
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57401aefcd37a4b4781bfc42840d24ac
+      internalID: 1359917630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 669
+        width: 106
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6438ced6f7efdf54e9d5c162e228ae7f
+      internalID: 1465712489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 463
+        width: 81
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42985e527033314f97fc8649f7560ce
+      internalID: -1158342570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 463
+        width: 81
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1e2b8654054b443897bc9cc3ae65de
+      internalID: -78814731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 463
+        width: 80
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2823bb0ee28646443820ecea41f94f34
+      internalID: 711793135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 463
+        width: 81
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c6bfaaf22e834387f890f254b9ca9
+      internalID: -728076923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 255
+        width: 96
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d2c94e14bf36429bea703b1ec9a86
+      internalID: -1533668395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 254
+        width: 96
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adbc8fe6d9ff7499f65e5afd26f9e2
+      internalID: 1319182726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 254
+        width: 97
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d6d0cc9118b54ab130d4825535bb7
+      internalID: 1561672826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_11
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 254
+        width: 97
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e54c53418b4b4409c13257ff7b6bf1
+      internalID: 1574192496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 80
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eacce6537a535f45b8b258995de1b19
+      internalID: 1587067332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 50
+        width: 79
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64141c7663a234c9df42aae172e6c7
+      internalID: 1875065483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 50
+        width: 80
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844240fe6b5d8a42979a317d55788a3
+      internalID: -1625556955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Mercadora_Idle_SEM_FUNDO_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 50
+        width: 80
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f0f014e3f1ecf4a98b6109d60cd192
+      internalID: -1519992005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_0: 1022591438
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_1: -1799839487
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_10: 1561672826
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_11: 1574192496
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_12: 1587067332
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_13: 1875065483
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_14: -1625556955
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_15: -1519992005
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_2: 1359917630
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_3: 1465712489
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_4: -1158342570
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_5: -78814731
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_6: 711793135
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_7: -728076923
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_8: -1533668395
+      SleepHeart_Mercadora_Idle_SEM_FUNDO_9: 1319182726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

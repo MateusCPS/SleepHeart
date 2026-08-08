@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: e134c88fc0d31cb46b7bcbc640707656
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 86
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 703
+        width: 112
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8359463a137eea8449b0fe9de391252e
+      internalID: 1320729715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 703
+        width: 111
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdc5004f695ae40bb5621217007f61
+      internalID: -666037250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 703
+        width: 110
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca20e0e6c85f14699102cbd755ae9d
+      internalID: -950251598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 703
+        width: 111
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a718f22b6c7bf43a39d10427069a64
+      internalID: 880809646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 497
+        width: 102
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b615440cfd25edb46be3da2166a1ea11
+      internalID: -1384178328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 497
+        width: 98
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b8b68603fa9c043927dd8048868094
+      internalID: -1036144779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 497
+        width: 99
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8ed554c00810458603f0c2dbbefcc
+      internalID: 1454742495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 497
+        width: 100
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ba77811dc1dd43aa5a7d0903539f3
+      internalID: 962095520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 107
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4586ebc794e26834f9beb9a8f69652dc
+      internalID: -1111529391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 290
+        width: 107
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34efaf42426695c4994502647ac07b39
+      internalID: -1937837503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 290
+        width: 107
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506bff7852f28b40b6da104d766786a
+      internalID: 1434880764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 290
+        width: 108
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcdf8128b30ec49b4ddb9ea074505d
+      internalID: -2082386936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 85
+        width: 103
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ecba1408d6c9449d5f2262e39b360
+      internalID: -371919377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 85
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ca60328be76246a40176e31bbbaad
+      internalID: -174770910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 85
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409cd7ec304d2c41b7694530b5b78af
+      internalID: 598931396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SleepHeart_Warrior_Idle_4Dir_Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 85
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771fff65b8bf33479dbadb7fe1bf6d6
+      internalID: 668477105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SleepHeart_Warrior_Idle_4Dir_Transparent_0: 1320729715
+      SleepHeart_Warrior_Idle_4Dir_Transparent_1: -666037250
+      SleepHeart_Warrior_Idle_4Dir_Transparent_10: 1434880764
+      SleepHeart_Warrior_Idle_4Dir_Transparent_11: -2082386936
+      SleepHeart_Warrior_Idle_4Dir_Transparent_12: -371919377
+      SleepHeart_Warrior_Idle_4Dir_Transparent_13: -174770910
+      SleepHeart_Warrior_Idle_4Dir_Transparent_14: 598931396
+      SleepHeart_Warrior_Idle_4Dir_Transparent_15: 668477105
+      SleepHeart_Warrior_Idle_4Dir_Transparent_2: -950251598
+      SleepHeart_Warrior_Idle_4Dir_Transparent_3: 880809646
+      SleepHeart_Warrior_Idle_4Dir_Transparent_4: -1384178328
+      SleepHeart_Warrior_Idle_4Dir_Transparent_5: -1036144779
+      SleepHeart_Warrior_Idle_4Dir_Transparent_6: 1454742495
+      SleepHeart_Warrior_Idle_4Dir_Transparent_7: 962095520
+      SleepHeart_Warrior_Idle_4Dir_Transparent_8: -1111529391
+      SleepHeart_Warrior_Idle_4Dir_Transparent_9: -1937837503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
