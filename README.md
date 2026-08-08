@@ -77,7 +77,7 @@ Atualmente, o projeto possui:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/MateusCPS/Sleep-Heart-2026-08-05_11-22-09
+   git clone URL-DO-REPOSITORIO
    ```
 
 2. Abra o Unity Hub.
