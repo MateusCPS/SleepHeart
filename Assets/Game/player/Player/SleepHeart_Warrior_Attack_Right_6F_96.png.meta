@@ -113,12 +113,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 13
-        width: 45
-        height: 71
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,12 +134,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_1
       rect:
         serializedVersion: 2
-        x: 97
-        y: 13
-        width: 70
-        height: 61
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -155,12 +155,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 13
-        width: 83
-        height: 67
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -176,12 +176,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_3
       rect:
         serializedVersion: 2
-        x: 306
-        y: 13
-        width: 112
-        height: 71
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 288
+        y: 0
+        width: 132
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_4
       rect:
         serializedVersion: 2
-        x: 426
-        y: 13
-        width: 51
-        height: 66
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 420
+        y: 0
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,12 +218,12 @@ TextureImporter:
       name: SleepHeart_Warrior_Attack_Right_6F_96_5
       rect:
         serializedVersion: 2
-        x: 505
-        y: 13
-        width: 42
-        height: 69
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

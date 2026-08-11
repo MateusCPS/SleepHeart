@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 namespace CoracaoAdormecido.Combat
 {
@@ -19,6 +20,11 @@ namespace CoracaoAdormecido.Combat
         [Header("Participantes")]
         [SerializeField] private Health playerHealth;
         [SerializeField] private Health enemyHealth;
+
+        [SerializeField] private Slider enemyHealthBar;
+        [SerializeField] private Slider playerHealthBar;
+
+        [SerializeField] private GameObject[] panels;
 
         [Header("Animação (opcional — deixe em branco se ainda não tiver Animator)")]
         [SerializeField] private CombatAnimator playerAnimator;
@@ -48,6 +54,8 @@ namespace CoracaoAdormecido.Combat
             playerHealth.ResetHealth();
             enemyHealth.ResetHealth();
             state = BattleState.PlayerTurn;
+            enemyHealthBar.value = enemyHealth.CurrentHealth;
+            playerHealthBar.value = playerHealth.CurrentHealth;
         }
 
         private void Update()
@@ -64,7 +72,6 @@ namespace CoracaoAdormecido.Combat
                     if (turnTimer <= 0f)
                         EnemyAttack();
                     break;
-
                 // Won/Lost: loop parado de propósito. Reiniciar ou sair da cena é o próximo passo.
             }
         }
@@ -73,11 +80,11 @@ namespace CoracaoAdormecido.Combat
         {
             playerAnimator?.TriggerAttack();
             enemyHealth.TakeDamage(playerAttackDamage, playerHealth.gameObject);
+            enemyHealthBar.value = enemyHealth.CurrentHealth;
 
             if (enemyHealth.IsDead)
             {
-                state = BattleState.Won;
-                Debug.Log("Vitória!");
+                Won();
                 return;
             }
 
@@ -89,15 +96,34 @@ namespace CoracaoAdormecido.Combat
         {
             enemyAnimator?.TriggerAttack();
             playerHealth.TakeDamage(enemyAttackDamage, enemyHealth.gameObject);
+            playerHealthBar.value = playerHealth.CurrentHealth;
 
             if (playerHealth.IsDead)
             {
-                state = BattleState.Lost;
-                Debug.Log("Derrota.");
+                Lost();
                 return;
             }
 
             state = BattleState.PlayerTurn;
+        }
+
+        private void Won()
+        {
+            state = BattleState.Won;
+            panels[0].SetActive(true);
+            Debug.Log("Vitória!");
+        }
+
+        private void Lost()
+        {
+            state = BattleState.Lost;
+            panels[1].SetActive(true);
+            Debug.Log("Derrota.");
+        }
+
+        public void SceneManager_LoadScene(string sceneName)
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
         }
     }
 }
