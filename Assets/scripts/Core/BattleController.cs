@@ -44,6 +44,7 @@ namespace CoracaoAdormecido.Combat
         {
             confirmAction = new InputAction("ConfirmAttack", binding: "<Keyboard>/space");
             confirmAction.AddBinding("<Gamepad>/buttonSouth");
+            panels[2].SetActive(true);
         }
 
         private void OnEnable() => confirmAction.Enable();
@@ -76,8 +77,9 @@ namespace CoracaoAdormecido.Combat
             }
         }
 
-        private void PlayerAttack()
+        public void PlayerAttack()
         {
+            if (state != BattleState.PlayerTurn) return;
             playerAnimator?.TriggerAttack();
             enemyHealth.TakeDamage(playerAttackDamage, playerHealth.gameObject);
             enemyHealthBar.value = enemyHealth.CurrentHealth;
@@ -111,6 +113,7 @@ namespace CoracaoAdormecido.Combat
         {
             state = BattleState.Won;
             panels[0].SetActive(true);
+            panels[2].SetActive(false);
             Debug.Log("Vitória!");
         }
 
@@ -118,6 +121,7 @@ namespace CoracaoAdormecido.Combat
         {
             state = BattleState.Lost;
             panels[1].SetActive(true);
+            panels[2].SetActive(false);
             Debug.Log("Derrota.");
         }
 
